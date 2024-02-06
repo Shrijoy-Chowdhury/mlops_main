@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='It's a wafer project using mlops',
+    description='Its a wafer project using mlops',
     author='mlops',
     license='MIT',
 )
